@@ -1,8 +1,8 @@
 # UK Productivity Analysis
 
 Independent consulting project analysing labour productivity 
-trends across five major economies — UK, USA, Germany, 
-France, and Japan — from 2000 to 2023.
+trends across five major economies - UK, USA, Germany, 
+France, and Japan - from 2000 to 2023.
 
 ## Data Source
 World Bank World Development Indicators, accessed via 
